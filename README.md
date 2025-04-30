@@ -1,4 +1,4 @@
-# 🧩 Sudoku GUI em Java
+# 🧩 Sudoku em Java
 
 Este é um projeto de **Jogo de Sudoku** desenvolvido em **Java** utilizando a biblioteca gráfica **Swing**. Ele permite que o jogador jogue Sudoku diretamente em uma janela, com validação dos movimentos e detecção de vitória.
 
@@ -23,9 +23,9 @@ Este é um projeto de **Jogo de Sudoku** desenvolvido em **Java** utilizando a b
 
 ### 🔧 Compilação e execução
 
-1. Clone este repositório ou copie o código-fonte para um arquivo chamado `SudokuGUI.java`.
+1. Clone este repositório ou copie o código-fonte para um arquivo chamado `Sudoku.java`.
 
 2. Compile o programa no terminal:
 
 ```bash
-javac SudokuGUI.java
+javac Sudoku.java
