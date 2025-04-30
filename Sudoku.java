@@ -102,7 +102,6 @@ public class Sudoku extends JFrame {
     }
 }
 
-// Classe auxiliar para limitar texto a 1 caractere
 class JTextFieldLimit extends javax.swing.text.PlainDocument {
     private final int limit;
 
